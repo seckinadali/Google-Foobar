@@ -15,13 +15,14 @@ Test cases
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
--- Python cases --
 Input:
 solution.solution(15324)
+
 Output:
     15129,169,25,1
 
 Input:
 solution.solution(12)
+
 Output:
     9,1,1,1
